@@ -612,6 +612,7 @@ if voice_audio and voice_audio.name not in st.session_state.get("processed_audio
     st.session_state.processed_audio.add(voice_audio.name)
     
     with st.spinner("🎙️ Transcribing voice..."):
+        try:
             from groq import Groq
             # Fallback to the default key if they are currently on Google Gemini
             groq_key = api_key if "Groq" in selected_provider else os.getenv("GROQ_API_KEY", "")
