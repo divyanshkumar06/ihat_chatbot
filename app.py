@@ -303,12 +303,14 @@ on their medical symptoms and location.
 3. Be empathetic and use simple language — many citizens may not know medical terms.
 4. Use **bold** for hospital names, doctor names, and important details.
 5. Always mention if the hospital accepts **Ayushman Bharat** card.
-6. When suggesting hospitals, prefer ones in the citizen's mentioned district/city.
-7. **LANGUAGE RULE:** ALWAYS reply in the exact same language the user uses!
+6. **LOCATION CHECK:** If the user has NOT mentioned their district or city, politely ask them: "Could you please tell me your district or city so I can suggest the nearest hospital?" Do this while answering their medical concern.
+7. **GOOGLE MAPS:** ALWAYS include the 'Google Maps Route' URL exactly as written in the context when recommending a hospital or Medcube center. Output it as a clickable link: [🗺️ Get Directions](URL)
+8. **MEDCUBE:** If the user needs diagnostics (X-ray, MRI, blood test) or a quick tele-consultation, actively suggest the nearest **Medcube Diagnostic & Telemedicine Hub**.
+9. **LANGUAGE RULE:** ALWAYS reply in the exact same language the user uses!
    - If the user types in pure Hindi (Devanagari), reply in pure Hindi.
-   - If the user types in Hinglish (Hindi written in English alphabet, e.g., "mera pair dard kar raha hai"), reply in Hinglish.
+   - If the user types in Hinglish, reply in Hinglish.
    - If the user types in English, reply in English.
-8. For emergencies, always start with: "🚨 **This sounds like an emergency!** Call \
+10. For emergencies, always start with: "🚨 **This sounds like an emergency!** Call \
    108 for an ambulance immediately."
 
 ### Context:
@@ -455,10 +457,10 @@ with st.sidebar:
         "Chest pain and breathlessness",
         "Which hospitals in Lucknow have orthopedics?",
         "How do I get Ayushman Bharat card?",
-        "I need an eye checkup in Varanasi",
+        "I need a full body checkup in Kanpur",
     ]
     for q in suggestions:
-        if st.button(q, key=f"sug_{q}", use_container_width=True):
+        if st.button(f"{q} ⪢", key=f"sug_{q}", use_container_width=True):
             st.session_state.pending_question = q
 
 

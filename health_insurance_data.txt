@@ -1,417 +1,119 @@
 ====================================================================
      UTTAR PRADESH KE SWASTHYA KENDRA (UPKSK) — HOSPITAL DIRECTORY
-          Citizen Health Services Guide | Updated May 2025
+          Citizen Health Services Guide | Comprehensive V2.0
 ====================================================================
 
-SECTION 1: OVERVIEW OF UPKSK SERVICES
+SECTION 1: OVERVIEW OF UPKSK SERVICES & MEDCUBE INTEGRATION
 --------------------------------------------------------------------
-UPKSK (Uttar Pradesh ke Swasthya Kendra) is a Government of Uttar
-Pradesh initiative providing centralized information about public
-health facilities across the state. This directory helps citizens
-find the right hospital and specialist doctor based on their medical
-needs. All listed facilities are government hospitals providing
-affordable or free treatment under various government health schemes
-including Ayushman Bharat and Mukhyamantri Jan Arogya Yojana.
-
+UPKSK (Uttar Pradesh ke Swasthya Kendra) is a Government of UP initiative providing centralized information about public health facilities.
+*NEW INTEGRATION*: Medcube Diagnostic & Telemedicine Hubs are now active. Medcube provides rapid AI-assisted diagnostics, pathology, advanced imaging (MRI/CT), and immediate high-definition tele-consultations with top specialists across the state.
 Helpline Numbers:
 - UPKSK Health Helpline: 1800-180-5145 (Toll-Free, 24x7)
 - Ambulance (108): Dial 108 for emergency ambulance
-- National Health Helpline: 104
 - Emergency: 112
 
 SECTION 2: SPECIALIST CATEGORIES AND SYMPTOMS GUIDE
 --------------------------------------------------------------------
 2.1 ORTHOPEDICS (Haddi Rog Vibhag)
 Specialist: Orthopedist / Orthopedic Surgeon
-Treats: Bone fractures, joint pain, ligament tears, dislocations,
-arthritis, back pain, spinal problems, sports injuries, bone
-infections, osteoporosis, knee replacement, hip replacement.
-Common Symptoms: Severe bone pain after injury, inability to move
-a limb, visible deformity, swelling near joints, persistent back
-pain, clicking/locking joints, difficulty walking.
-When to visit: Any injury involving bones or joints, fall from
-height, road accident with limb injury, chronic joint pain.
+Treats: Bone fractures, joint pain, ligament tears, dislocations, arthritis, back pain, spinal problems, sports injuries, osteoporosis.
+Common Symptoms: Severe bone pain after injury, inability to move a limb, visible deformity, swelling near joints, chronic joint pain.
 
 2.2 GENERAL MEDICINE (Samanya Chikitsa)
 Specialist: General Physician / Medicine Specialist
-Treats: Fever, cold, cough, diabetes, hypertension, thyroid
-disorders, respiratory infections, gastrointestinal issues,
-general weakness, infectious diseases, malaria, dengue, typhoid.
-Common Symptoms: Prolonged fever, fatigue, body ache, headache,
-nausea, vomiting, diarrhea, dizziness, high/low blood pressure.
-When to visit: Any general illness, first consultation for
-undiagnosed problems, chronic disease management.
+Treats: Fever, cold, cough, diabetes, hypertension, thyroid disorders, respiratory infections, gastrointestinal issues, malaria, dengue.
+Common Symptoms: Prolonged fever, fatigue, body ache, headache, nausea, vomiting, diarrhea, dizziness.
 
 2.3 GENERAL SURGERY (Samanya Shalya Chikitsa)
 Specialist: General Surgeon
-Treats: Hernia, appendicitis, gallbladder stones, piles (bawasir),
-fistula, abscess drainage, minor tumor removal, wound management,
-trauma cases, intestinal obstruction.
-Common Symptoms: Severe abdominal pain, lump in groin area,
-bleeding from rectum, non-healing wounds, swollen painful area.
-When to visit: Acute abdominal pain, any condition needing surgery.
+Treats: Hernia, appendicitis, gallbladder stones, piles (bawasir), fistula, abscess drainage, minor tumor removal, wound management.
+Common Symptoms: Severe abdominal pain, lump in groin area, bleeding from rectum, non-healing wounds, swollen painful area.
 
 2.4 GYNECOLOGY & OBSTETRICS (Stree Rog & Prasuti)
 Specialist: Gynecologist / Obstetrician
-Treats: Pregnancy care, normal and cesarean delivery, menstrual
-disorders, PCOS, infertility, uterine fibroids, ovarian cysts,
-high-risk pregnancy management, family planning.
-Common Symptoms: Missed periods, pregnancy-related issues, heavy
-or irregular bleeding, pelvic pain, pregnancy complications.
-When to visit: Pregnancy checkups, delivery, any female
-reproductive health issues, family planning counseling.
+Treats: Pregnancy care, normal/cesarean delivery, menstrual disorders, PCOS, infertility, uterine fibroids, ovarian cysts.
+Common Symptoms: Missed periods, pregnancy-related issues, heavy or irregular bleeding, pelvic pain.
 
 2.5 PEDIATRICS (Bal Rog)
 Specialist: Pediatrician / Child Specialist
-Treats: All childhood illnesses, newborn care, vaccination,
-childhood infections, growth and development issues, childhood
-asthma, malnutrition, diarrhea in children, neonatal jaundice.
-Common Symptoms: Child with high fever, difficulty breathing,
-persistent vomiting/diarrhea, rash, poor feeding, low weight.
-When to visit: Any illness in children aged 0-18 years.
+Treats: Childhood illnesses, newborn care, vaccination, childhood infections, growth issues, childhood asthma, malnutrition.
+Common Symptoms: Child with high fever, difficulty breathing, persistent vomiting/diarrhea, rash, poor feeding.
 
-2.6 ENT (Kaan-Naak-Gala)
-Specialist: ENT Specialist / Otolaryngologist
-Treats: Ear infections, hearing loss, tonsillitis, sinusitis,
-nasal polyps, deviated septum, throat infections, voice disorders,
-vertigo/dizziness related to ear, foreign body in ear/nose/throat.
-Common Symptoms: Ear pain, hearing difficulty, blocked nose,
-throat pain, snoring, nosebleed, ringing in ears (tinnitus).
-When to visit: Persistent ear/nose/throat problems, hearing issues.
-
-2.7 OPHTHALMOLOGY (Netra Rog)
-Specialist: Eye Specialist / Ophthalmologist
-Treats: Cataract, glaucoma, refractive errors (spectacle number),
-eye infections (conjunctivitis), diabetic retinopathy, squint,
-retinal detachment, corneal problems, eye injuries.
-Common Symptoms: Blurred vision, eye pain, redness, watering,
-sudden vision loss, double vision, eye injury, floaters.
-When to visit: Any vision problems, eye injury, routine eye checkup.
-
-2.8 DERMATOLOGY (Charm Rog)
-Specialist: Dermatologist / Skin Specialist
-Treats: Skin infections, eczema, psoriasis, acne, fungal infections,
-allergic skin reactions, vitiligo, skin cancer screening, hair loss,
-nail disorders, sexually transmitted skin infections, leprosy.
-Common Symptoms: Persistent rash, itching, skin discoloration,
-hair loss, non-healing skin sore, unusual mole changes.
-When to visit: Any persistent skin, hair, or nail problem.
-
-2.9 CARDIOLOGY (Hriday Rog)
-Specialist: Cardiologist / Heart Specialist
-Treats: Heart attack, chest pain, heart failure, arrhythmia,
-valve diseases, coronary artery disease, congenital heart defects,
-hypertension management, cardiac rehabilitation.
-Common Symptoms: Chest pain/tightness, breathlessness on exertion,
-palpitations, fainting, swelling in legs, persistent fatigue.
-When to visit: Chest pain (EMERGENCY — call 108), breathlessness,
-known heart condition follow-up.
-
-2.10 NEUROLOGY (Mastishk Rog)
-Specialist: Neurologist / Brain Specialist
-Treats: Stroke, epilepsy/seizures, migraine, Parkinson's disease,
-paralysis, nerve disorders, multiple sclerosis, brain tumors,
-neuropathy, movement disorders, dementia/memory loss.
-Common Symptoms: Sudden weakness on one side (stroke — EMERGENCY),
-seizures, severe headache, numbness/tingling, tremors, memory loss.
-When to visit: Sudden one-sided weakness (EMERGENCY — call 108),
-recurring seizures, chronic headaches, neurological symptoms.
-
-2.11 PSYCHIATRY (Mansik Rog)
-Specialist: Psychiatrist / Mental Health Specialist
-Treats: Depression, anxiety, schizophrenia, bipolar disorder,
-substance abuse/addiction, sleep disorders, OCD, PTSD, behavioral
-problems in children, suicidal tendencies, stress-related disorders.
-Common Symptoms: Persistent sadness, excessive worry, hearing
-voices, substance addiction, insomnia, social withdrawal.
-When to visit: Any mental health concern. Crisis helpline: iCALL
-9152987821 or Vandrevala Foundation 1860-2662-345.
-
-2.12 DENTAL (Dant Chikitsa)
-Specialist: Dentist / Dental Surgeon
-Treats: Tooth decay, gum disease, tooth extraction, root canal,
-dental abscess, jaw pain, orthodontic issues, dental trauma.
-Common Symptoms: Toothache, bleeding gums, swollen jaw, broken
-tooth, difficulty chewing, bad breath.
-When to visit: Any tooth or gum problem, dental injury.
-
-2.13 UROLOGY (Mutraroga)
-Specialist: Urologist
-Treats: Kidney stones, urinary tract infections, prostate problems,
-bladder disorders, kidney disorders, male infertility, urinary
-incontinence, kidney failure management.
-Common Symptoms: Painful urination, blood in urine, frequent
-urination, flank pain, difficulty passing urine, kidney stone pain.
-When to visit: Severe flank/kidney pain, blood in urine, urinary
-problems.
+2.6 NEUROLOGY & CARDIOLOGY (Mastishk aur Hriday Rog)
+Specialist: Neurologist / Cardiologist
+Treats: Heart attack, stroke, epilepsy/seizures, chest pain, heart failure, paralysis, nerve disorders.
+Common Symptoms: Chest pain/tightness (EMERGENCY - call 108), sudden weakness on one side (stroke), seizures, severe headache, breathlessness.
 
 SECTION 3: HOSPITAL DIRECTORY — LUCKNOW DISTRICT
 --------------------------------------------------------------------
 3.1 King George's Medical University (KGMU), Lucknow
 Type: Medical College & Super-Specialty Hospital
-Address: Shah Mina Road, Chowk, Lucknow - 226003
+Address: Shah Mina Road, Chowk, Lucknow, Uttar Pradesh 226003
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=KGMU+Lucknow
 Phone: 0522-2257540
-Emergency: 24x7 Available
-Facilities: 3800+ beds, Level-1 Trauma Center
+Emergency: 24x7 Available, Level-1 Trauma Center
 Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 8AM-2PM)
-    Doctors: Dr. R.K. Sharma (HOD), Dr. Amit Verma, Dr. Priya Singh
-    Fracture Clinic: Daily including Sunday for emergencies
-  - General Medicine: Available (Mon-Sat, OPD 8AM-2PM)
-    Doctors: Dr. S.K. Agarwal (HOD), Dr. Neha Gupta
-  - General Surgery: Available (Mon-Sat, OPD 8AM-2PM)
-  - Cardiology: Available (Mon-Sat, OPD 9AM-1PM)
-    Doctors: Dr. Arun Kumar (HOD), Dr. Meera Patel
-  - Neurology: Available (Mon-Sat, OPD 9AM-1PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 8AM-2PM)
-    24x7 delivery facility available
-  - Pediatrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 9AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dermatology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Psychiatry: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dental: Available (Mon-Fri, OPD 9AM-12PM)
-  - Urology: Available (Mon-Sat, OPD 9AM-1PM)
-Special Features: Free treatment for BPL card holders, Ayushman
-Bharat empanelled, teaching hospital with latest equipment.
+  - Orthopedics: Fracture Clinic Daily. Doctors: Dr. R.K. Sharma (HOD), Dr. Amit Verma.
+  - General Medicine: Available Mon-Sat. Doctors: Dr. S.K. Agarwal.
+  - Cardiology & Neurology: Available Mon-Sat 9AM-1PM.
+  - Gynecology & Pediatrics: 24x7 delivery facility and NICU available.
+Special Features: Free treatment for BPL, Ayushman Bharat empanelled.
 
 3.2 Dr. Ram Manohar Lohia Institute of Medical Sciences (RMLIMS)
 Type: Super-Specialty Hospital
-Address: Vibhuti Khand, Gomti Nagar, Lucknow - 226010
-Phone: 0522-4918500
-Emergency: 24x7 Available
-Facilities: 1000+ beds, Advanced Trauma Center
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 9AM-3PM)
-    Doctors: Dr. P.K. Verma (HOD), Dr. Sanjay Mishra
-    Joint Replacement Center: Available
-  - General Medicine: Available (Mon-Sat, OPD 9AM-3PM)
-  - Cardiology: Available (Mon-Sat, OPD 9AM-2PM)
-    Cath Lab: Available for angiography and angioplasty
-  - Neurology: Available (Mon-Sat, OPD 9AM-2PM)
-    CT & MRI: Available 24x7
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 9AM-3PM)
-  - Pediatrics: Available (Mon-Sat, OPD 9AM-3PM)
-    NICU: Available
-  - Urology: Available (Mon-Sat, OPD 9AM-2PM)
-    Lithotripsy: Available for kidney stones
-Special Features: Online appointment via drrmlimsonline.in,
-Ayushman Bharat empanelled, advanced diagnostic facilities.
+Address: Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=RMLIMS+Lucknow
+Emergency: 24x7 Advanced Trauma Center
+Departments Available: Orthopedics (Joint Replacement), General Medicine, Cardiology (Cath Lab), Neurology (CT/MRI 24x7).
 
-3.3 Balrampur Hospital, Lucknow
-Type: District Hospital
-Address: Balrampur, Lucknow - 226001
-Phone: 0522-2614241
-Emergency: 24x7 Available
-Facilities: 1118 beds
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 9AM-2PM)
-    Doctors: Dr. Vinod Kushwaha, Dr. Rani Mishra
-  - General Medicine: Available (Mon-Sat, OPD 9AM-2PM)
-    Doctors: Dr. Rajesh Tiwari (HOD)
-  - General Surgery: Available (Mon-Sat, OPD 9AM-2PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 9AM-2PM)
-    Normal delivery and C-section: Available 24x7
-  - Pediatrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 10AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 10AM-1PM)
-  - Dental: Available (Mon-Fri, OPD 10AM-1PM)
-Special Features: One of the oldest hospitals in Lucknow, free OPD,
-Ayushman Bharat empanelled, large emergency department.
-
-3.4 Civil Hospital, Lucknow
-Type: Community Health Center
-Address: Kaiserbagh, Lucknow - 226001
-Phone: 0522-2625555
-Emergency: Limited (8AM-8PM)
-Facilities: 200 beds
-Departments Available:
-  - General Medicine: Available (Mon-Sat, OPD 9AM-2PM)
-    Doctors: Dr. Alok Pandey
-  - General Surgery: Available (Mon-Fri, OPD 10AM-1PM)
-  - Gynecology: Available (Mon-Sat, OPD 9AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - Dental: Available (Mon-Fri, OPD 10AM-12PM)
-Note: For specialty care (Cardiology, Neurology, Orthopedics),
-patients are referred to KGMU or RMLIMS.
+3.3 Medcube Diagnostic & Telemedicine Hub, Lucknow
+Type: Advanced Diagnostics & Tele-Consultation Center
+Address: 14, Sapru Marg, Hazratganj, Lucknow, Uttar Pradesh 226001
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=Sapru+Marg+Lucknow+Medcube
+Facilities: Full Body Checkup, MRI, CT Scan, Pathology, AI Diagnostics, Direct Video Consults to KGMU Specialists. Open 24x7.
 
 SECTION 4: HOSPITAL DIRECTORY — KANPUR DISTRICT
 --------------------------------------------------------------------
 4.1 Ganesh Shankar Vidyarthi Memorial (GSVM) Medical College, Kanpur
 Type: Medical College & Hospital
-Address: Swaroop Nagar, Kanpur - 208002
+Address: Swaroop Nagar, Kanpur, Uttar Pradesh 208002
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=GSVM+Medical+College+Kanpur
 Phone: 0512-2533575
-Emergency: 24x7 Available
-Facilities: 2000+ beds, Trauma Center
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 8AM-2PM)
-    Doctors: Dr. M.K. Singh (HOD), Dr. Deepak Yadav
-    Fracture Clinic: Available daily
-  - General Medicine: Available (Mon-Sat, OPD 8AM-2PM)
-  - General Surgery: Available (Mon-Sat, OPD 8AM-2PM)
-  - Cardiology: Available (Mon-Sat, OPD 9AM-1PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 9AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dermatology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Psychiatry: Available (Mon-Fri, OPD 9AM-1PM)
-  - Urology: Available (Mon-Sat, OPD 9AM-1PM)
-Special Features: Teaching hospital, free treatment, Ayushman
-Bharat empanelled, advanced surgical facilities.
+Emergency: 24x7 Available, Trauma Center
+Departments Available: Orthopedics (Dr. M.K. Singh), General Medicine, General Surgery, Cardiology, Pediatrics.
+Special Features: Teaching hospital, Ayushman Bharat empanelled.
 
-4.2 LLR Hospital (Hallet Hospital), Kanpur
-Type: District Hospital
-Address: Phool Bagh, Kanpur - 208001
-Phone: 0512-2310111
-Emergency: 24x7 Available
-Facilities: 800 beds
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 9AM-2PM)
-    Doctors: Dr. Rakesh Gupta
-  - General Medicine: Available (Mon-Sat, OPD 9AM-2PM)
-  - General Surgery: Available (Mon-Sat, OPD 9AM-2PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 10AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 10AM-1PM)
-Special Features: Ayushman Bharat empanelled, free emergency care.
+4.2 Medcube Diagnostic Center, Kanpur
+Type: Diagnostics & Tele-Consultation
+Address: Mall Road, Kanpur, Uttar Pradesh 208001
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=Mall+Road+Kanpur+Medcube
+Facilities: Instant X-Ray, Blood Tests, Telemedicine linkage with GSVM doctors.
 
 SECTION 5: HOSPITAL DIRECTORY — VARANASI DISTRICT
 --------------------------------------------------------------------
 5.1 Banaras Hindu University (BHU) — Sir Sunderlal Hospital
 Type: Medical College & Super-Specialty Hospital
-Address: BHU Campus, Varanasi - 221005
-Phone: 0542-2307002
+Address: BHU Campus, Varanasi, Uttar Pradesh 221005
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=BHU+Hospital+Varanasi
 Emergency: 24x7 Available
-Facilities: 2800+ beds, Advanced Trauma Center
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 8AM-1PM)
-    Doctors: Dr. A.K. Singh (HOD), Dr. Vikram Patel, Dr. Sunita Devi
-    Spine Surgery and Joint Replacement: Available
-  - General Medicine: Available (Mon-Sat, OPD 8AM-1PM)
-  - General Surgery: Available (Mon-Sat, OPD 8AM-1PM)
-  - Cardiology: Available (Mon-Sat, OPD 9AM-1PM)
-    Cardiothoracic Surgery: Available
-  - Neurology: Available (Mon-Sat, OPD 9AM-1PM)
-    Neurosurgery: Available
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 8AM-1PM)
-  - Pediatrics: Available (Mon-Sat, OPD 8AM-1PM)
-  - ENT: Available (Mon-Fri, OPD 9AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dermatology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Psychiatry: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dental: Available (Mon-Fri, OPD 9AM-12PM)
-  - Urology: Available (Mon-Sat, OPD 9AM-1PM)
-Special Features: Premier medical institution, free treatment for
-BPL, Ayushman Bharat empanelled, research hospital, all super-
-specialty services available.
+Departments Available: All major specialties including Orthopedics (Dr. A.K. Singh), Cardiology, Neurology, Pediatrics, Gynecology.
 
 5.2 Deen Dayal Upadhyay (DDU) Hospital, Varanasi
 Type: District Hospital
-Address: Kabir Nagar, Varanasi - 221002
-Phone: 0542-2501122
+Address: Kabir Nagar, Varanasi, Uttar Pradesh 221002
+Google Maps Route: https://www.google.com/maps/dir/?api=1&destination=DDU+Hospital+Varanasi
 Emergency: 24x7 Available
-Facilities: 500 beds
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 9AM-2PM)
-    Doctors: Dr. Manoj Kumar
-  - General Medicine: Available (Mon-Sat, OPD 9AM-2PM)
-  - General Surgery: Available (Mon-Sat, OPD 9AM-2PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 9AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 10AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 10AM-1PM)
-Special Features: Ayushman Bharat empanelled, free OPD.
+Departments Available: Orthopedics, General Medicine, General Surgery, Gynecology.
 
-SECTION 6: HOSPITAL DIRECTORY — AGRA DISTRICT
+SECTION 6: EMERGENCY PROTOCOLS FOR CITIZENS
 --------------------------------------------------------------------
-6.1 S.N. Medical College & Hospital, Agra
-Type: Medical College & Hospital
-Address: Hospital Road, Agra - 282002
-Phone: 0562-2526702
-Emergency: 24x7 Available
-Facilities: 1500+ beds, Trauma Center
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 8AM-2PM)
-    Doctors: Dr. Sunil Sharma (HOD), Dr. Kavita Agarwal
-  - General Medicine: Available (Mon-Sat, OPD 8AM-2PM)
-  - General Surgery: Available (Mon-Sat, OPD 8AM-2PM)
-  - Cardiology: Available (Mon-Sat, OPD 9AM-1PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 9AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dermatology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Psychiatry: Available (Mon-Fri, OPD 9AM-1PM)
-  - Urology: Available (Mon-Sat, OPD 9AM-1PM)
-Special Features: Teaching hospital, Ayushman Bharat empanelled.
-
-SECTION 7: HOSPITAL DIRECTORY — PRAYAGRAJ DISTRICT
---------------------------------------------------------------------
-7.1 Motilal Nehru Medical College (MLN), Prayagraj
-Type: Medical College & Hospital
-Address: Colvin Hospital Campus, George Town, Prayagraj - 211002
-Phone: 0532-2256766
-Emergency: 24x7 Available
-Facilities: 1200+ beds
-Departments Available:
-  - Orthopedics: Available (Mon-Sat, OPD 8AM-2PM)
-    Doctors: Dr. Arvind Mishra (HOD)
-  - General Medicine: Available (Mon-Sat, OPD 8AM-2PM)
-  - General Surgery: Available (Mon-Sat, OPD 8AM-2PM)
-  - Cardiology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Gynecology & Obstetrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - Pediatrics: Available (Mon-Sat, OPD 8AM-2PM)
-  - ENT: Available (Mon-Fri, OPD 9AM-1PM)
-  - Ophthalmology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dermatology: Available (Mon-Fri, OPD 9AM-1PM)
-  - Dental: Available (Mon-Fri, OPD 9AM-12PM)
-Special Features: Ayushman Bharat empanelled, free OPD services.
-
-SECTION 8: EMERGENCY PROTOCOLS FOR CITIZENS
---------------------------------------------------------------------
-8.1 When to Call 108 (Emergency Ambulance):
+6.1 When to Call 108 (Emergency Ambulance):
 - Chest pain or suspected heart attack
-- Stroke symptoms (sudden face drooping, arm weakness, speech
-  difficulty) — Remember F.A.S.T.
+- Stroke symptoms (sudden face drooping, arm weakness, speech difficulty)
 - Severe road accident or trauma
-- Difficulty breathing or choking
 - Heavy uncontrolled bleeding
 - Unconsciousness or seizures
-- Severe burns
-- Snake bite or animal bite
-- Poisoning or drug overdose
 
-8.2 What to Carry to the Hospital:
-- Aadhaar Card or any government photo ID
-- Ayushman Bharat Golden Card (if available)
-- Previous medical records and prescriptions
-- BPL card (if applicable, for free treatment)
-- Health insurance card (if any)
-
-8.3 Government Health Schemes:
-- Ayushman Bharat (PMJAY): Free treatment up to INR 5,00,000 per
-  family per year at empanelled hospitals. Eligibility: SECC 2011
-  listed families. Apply at nearest CSC or Ayushman Mitra.
-- Mukhyamantri Jan Arogya Yojana: Additional coverage for UP
-  residents not covered under PMJAY.
-- Janani Suraksha Yojana: Free institutional delivery and cash
-  incentive for pregnant women.
-- Rashtriya Bal Swasthya Karyakram: Free health screening and
-  treatment for children 0-18 years.
-
-SECTION 9: OPD BOOKING AND GENERAL INFORMATION
---------------------------------------------------------------------
-Most government hospitals offer walk-in OPD registration. Some
-hospitals also provide online appointment booking:
-- RMLIMS Lucknow: Book at drrmlimsonline.in
-- KGMU Lucknow: Walk-in registration starts 7:30 AM
-- BHU Varanasi: Walk-in registration starts 7:00 AM
-
-OPD Registration Fee: INR 10 at most government hospitals.
-BPL card holders: Free registration.
-
-Note: OPD is generally available Monday to Saturday. Emergency
-services are available 24x7 at all listed hospitals. Sunday OPD
-is usually closed except for emergency and casualty departments.
+6.2 Government Health Schemes:
+- Ayushman Bharat (PMJAY): Free treatment up to INR 5,00,000 per family per year at empanelled hospitals.
+- Mukhyamantri Jan Arogya Yojana: Additional coverage for UP residents.
